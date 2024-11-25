@@ -94,13 +94,13 @@ h1{
 }
 
 section:nth-of-type(2){/*pseudo-classe CSS selecionam itens de um grupo de elementos HTML*/
-    background-image: url("mac\ wallpaper.jfif");/*imagem de fundo*/
+    background-image: url("005.jfif");/*imagem de fundo*/
 }
 section:nth-of-type(4){
-    background-image: url("mac\ wallpaper.jfif");
+    background-image: url("005.jfif");
 }
 section:nth-of-type(6){
-    background-image: url("mac\ wallpaper.jfif");
+    background-image: url("005.jfif");
 }
 
 
